@@ -1,1 +1,13 @@
 # TikTok-Accounts-Creator
+- Free Version :
+  - Published
+- Paid Version :
+  - No Third Party Api
+  - Captcha Solvers
+  - Device Registration
+  - No ShadowBan
+  - Support Proxies
+  - 100% Requests No Selenium
+  - Android/iOS APIs
+  - Full Updated Algorithms
+- Contact : https://t.me/SozaGod
