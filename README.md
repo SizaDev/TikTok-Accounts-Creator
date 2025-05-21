@@ -3,7 +3,7 @@
   - Published
 - Paid Version :
   - No Third Party Api
-  - Captcha Solvers
+  - Captcha Solvers 
   - Device Registration
   - No ShadowBan
   - Support Proxies
