@@ -9,5 +9,5 @@
   - Support Proxies
   - 100% Requests No Selenium
   - Android/iOS APIs
-  - Full Updated Algorithms
+  - Full Updated Algorithms 
 - Contact : https://t.me/SozaGod
