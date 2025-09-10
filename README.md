@@ -1,7 +1,7 @@
 # TikTok-Accounts-Creator
 - Free Version :
   - Published
-- Paid Version :
+- Paid Version : 
   - No Third Party Api
   - Captcha Solvers 
   - Device Registration
